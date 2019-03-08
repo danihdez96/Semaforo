@@ -1,0 +1,8 @@
+c:\users\daniela\documents\visual studio 2013\Projects\Semaforo\ClasePrincipal\bin\Debug\ClasePrincipal.exe.config
+c:\users\daniela\documents\visual studio 2013\Projects\Semaforo\ClasePrincipal\bin\Debug\ClasePrincipal.exe
+c:\users\daniela\documents\visual studio 2013\Projects\Semaforo\ClasePrincipal\bin\Debug\ClasePrincipal.pdb
+c:\users\daniela\documents\visual studio 2013\Projects\Semaforo\ClasePrincipal\bin\Debug\Clase1.dll
+c:\users\daniela\documents\visual studio 2013\Projects\Semaforo\ClasePrincipal\bin\Debug\Clase1.pdb
+c:\users\daniela\documents\visual studio 2013\Projects\Semaforo\ClasePrincipal\obj\Debug\ClasePrincipal.csprojResolveAssemblyReference.cache
+c:\users\daniela\documents\visual studio 2013\Projects\Semaforo\ClasePrincipal\obj\Debug\ClasePrincipal.exe
+c:\users\daniela\documents\visual studio 2013\Projects\Semaforo\ClasePrincipal\obj\Debug\ClasePrincipal.pdb

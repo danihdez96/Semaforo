@@ -1,0 +1,5 @@
+c:\users\daniela\documents\visual studio 2013\Projects\Semaforo\Clase1\obj\Debug\Clase1.csprojResolveAssemblyReference.cache
+c:\users\daniela\documents\visual studio 2013\Projects\Semaforo\Clase1\bin\Debug\Clase1.dll
+c:\users\daniela\documents\visual studio 2013\Projects\Semaforo\Clase1\bin\Debug\Clase1.pdb
+c:\users\daniela\documents\visual studio 2013\Projects\Semaforo\Clase1\obj\Debug\Clase1.dll
+c:\users\daniela\documents\visual studio 2013\Projects\Semaforo\Clase1\obj\Debug\Clase1.pdb
